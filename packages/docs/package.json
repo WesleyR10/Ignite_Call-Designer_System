@@ -1,5 +1,5 @@
 {
-  "name": "@wesley-ignite-ui/docs",
+  "name": "@wesley-wesley-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,9 +12,9 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@wesley-ignite-ui/eslint-config": "*",
+    "@wesley-ignite-ui/react": "*",
+    "@wesley-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.6.8",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",

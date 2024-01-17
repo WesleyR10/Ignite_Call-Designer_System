@@ -1,4 +1,4 @@
-# @wesley-ignite-ui/react
+# @wesley-wesley-ignite-ui/react
 
 ## 1.1.1
 
