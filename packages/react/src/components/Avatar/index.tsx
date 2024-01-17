@@ -15,3 +15,5 @@ export function Avatar(props: AvatarProps) {
     </AvatarContainer>
   )
 }
+
+Avatar.displayName = 'Avatar' // Nome que vai aparecer no storybook

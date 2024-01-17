@@ -13,3 +13,5 @@ export function Checkbox(props: CheckboxProps) {
     </CheckboxContainer>
   )
 }
+
+Checkbox.displayName = 'Checkbox' // Nome que vai aparecer no storybook
