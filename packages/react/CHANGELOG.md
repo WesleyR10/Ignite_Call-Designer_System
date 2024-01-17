@@ -1,5 +1,11 @@
 # @wesley-ignite-ui/react
 
+## 1.2.0
+
+### Minor Changes
+
+- Testing Correction
+
 ## 1.1.1
 
 ### Patch Changes
